@@ -66,10 +66,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amou6518&show_icons=true&theme=tokyonight&hide_border=true&title_color=90e0ef&icon_color=4cc9f0&text_color=caf0f8&bg_color=03045e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amou6518&layout=compact&theme=tokyonight&hide_border=true&title_color=90e0ef&text_color=caf0f8&bg_color=03045e" />
-
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amou6518&show_icons=true&theme=tokyonight" alt="Haeun's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amou6518&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 <br>
